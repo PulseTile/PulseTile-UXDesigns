@@ -2,7 +2,7 @@
 
 High fidelity wireframes of core functionality of the PulseTile UI Framework. Designs within all execpt the Legacy folder were produced using Photoshop CC. 
 
-These designs are provided with the aim of aiding UX designers when developing new modules for the PulstTile platform. Further documentation on UX can be found within the [PulseTile Docuemntation Site](http://docs.pulsetile.com/index.html) or within the [UI Kit](http://showcase2.ripple.foundation/ui-kit.html)
+These designs are provided with the aim of aiding UX designers when developing new modules for the PulstTile platform. Further documentation on UX can be found within the [PulseTile Documentation Site](http://docs.pulsetile.com/index.html) or within the [UI Kit](http://showcase2.ripple.foundation/ui-kit.html)
 
 Below is an overview of the top level folder structure:
 
@@ -27,3 +27,5 @@ Contains smart object reference files used within by wireframes with /Pages Mobi
 Used to store old designs produced in Adobe Fireworks. Image files are stores as multi-page PNG files. A full breakdown of pages can be found within Ripple Wireframes Overview.xlsx within this folder.
 
 Please note that designs within this folder may have been superseeded in design within the Pages Desktop or Pages Mobile folder.
+
+If you have any queries, please raise as an issue or email info@ripple.foundation.
