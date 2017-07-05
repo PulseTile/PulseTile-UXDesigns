@@ -6,7 +6,7 @@ High fidelity wireframes of core functionality of the PulseTile UI Framework. De
 
 Contains all wireframes for desktop devices. Wireframes are produced at 1135 pixels wide, the minimum resolution for desktop devices. Sub folders are grouped by module i.e. Allergies, Appointments, Charts etc.
 
-## Pages Modile
+## Pages Mobile
 
 Contains all wireframes for mobile devices. Wireframes are produced at 640 pixels wide, scaled x2 for retina displays.
 
