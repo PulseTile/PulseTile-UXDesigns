@@ -21,3 +21,5 @@ Contains smart object reference files used within by wireframes with /Pages Mobi
 ## Legacy
 
 Used to store old designs produced in Adobe Fireworks. Image files are stores as multi-page PNG files. A full breakdown of pages can be found within Ripple Wireframes Overview.xlsx within this folder.
+
+Please note that designs within this folder may have been superseeded in design within the Pages Desktop or Pages Mobile folder.
