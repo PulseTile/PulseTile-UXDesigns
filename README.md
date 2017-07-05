@@ -1,6 +1,10 @@
 # PulseTile UX Designs
 
-High fidelity wireframes of core functionality of the PulseTile UI Framework. Designs are produced using Photoshop. Below is an overview of the top level folder structure.
+High fidelity wireframes of core functionality of the PulseTile UI Framework. Designs within all execpt the Legacy folder were produced using Photoshop CC. 
+
+These designs are provided with the aim of aiding UX designers when developing new modules for the PulstTile platform. Further documentation on UX can be found within the [PulseTile Docuemntation Site](http://docs.pulsetile.com/index.html) or within the [UI Kit](http://showcase2.ripple.foundation/ui-kit.html)
+
+Below is an overview of the top level folder structure:
 
 ## Pages Desktop
 
