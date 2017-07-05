@@ -29,3 +29,20 @@ Used to store old designs produced in Adobe Fireworks. Image files are stores as
 Please note that designs within this folder may have been superseeded in design within the Pages Desktop or Pages Mobile folder.
 
 If you have any queries, please raise as an issue or email info@ripple.foundation.
+
+## Automation
+
+A photoshop automation script is provided within the Automation folder. The script will export all PSD files within a selected sub folder to JPEGs.
+
+### Instructions for use
+
+1. Download the script (Automatic preview generation.jsx) from GitHub;
+2. Open Photoshop, select File -> Scripts -> Browse, select downloaded JSX file. 
+3. Prompt will ask for a input folder, where PSD files are located (or, folder with multiple folders containing PSD files)
+4. Second prompt will ask for output folder - i.e. where the JPG files will be located (folder structure will be the same as input folder in case there are multiple folders with source files)
+5. Script will automatically crawl through the folders (starting at the input folder), grab every single PSD file, and output the JPG file without any user interaction using input's folder hierarchy.
+
+### Things to note: 
+
+1. JSX script will be visible by PhotoShop only in case it's extension is .JSX or .jsx - PhotoShop will not be able to open file with extension .jsx.txt
+2. All other files (not PSD) will be automatically skipped.
